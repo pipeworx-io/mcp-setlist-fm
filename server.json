@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/setlist-fm",
   "title": "Setlist Fm",
   "description": "setlist.fm MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/setlist-fm",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-setlist-fm",
