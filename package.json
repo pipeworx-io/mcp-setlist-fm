@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-setlist-fm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "setlist.fm MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "setlist-fm",
     "gatewaySlug": "setlist-fm",
-    "sourceHash": "v1-4a6111e824d377cf5e988b2d14c6343b3c9ec68c7a0d337e96cbac72e9a2afb3",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-075f871868a77209f8a556670976632d4093ca265168002cff06cc6ddb2ba802",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
